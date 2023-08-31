@@ -2,7 +2,7 @@ from Red_Black_Tree import RBTree
 
 
 def go():
-    """Свои хотелки пишем тут"""
+  
 
     tree_str = RBTree()
     tree_str.insert("apple")
