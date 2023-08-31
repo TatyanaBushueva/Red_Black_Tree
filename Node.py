@@ -3,7 +3,7 @@ from typing import Optional
 
 class Node:
     """
-    Класс, представляющий узел красно-черного дерева.
+    Класс, определяющий узел красно-черного дерева.
     """
 
     def __init__(self, value: object, color: str) -> None:
